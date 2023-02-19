@@ -16,3 +16,4 @@ $ npm run start
 ```
 
 Open http://localhost:8080 to view your project.
+http://localhost:8080/examples/3d-obj-loader/
